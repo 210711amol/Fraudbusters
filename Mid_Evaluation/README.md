@@ -1,0 +1,1 @@
+Mentees were divided into 4 teams where each team made their final notebook on detecting fraud in online transactions using all the topics learnt so far
